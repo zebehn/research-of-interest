@@ -1,6 +1,9 @@
-# Datasets for Robots
+# Research Of Interest
 
-A curated list of datasets for training robots.
+A curated list of interesting research works.
+
+### Lifelong/Continual Learning
+* [L2M Lifelong Learning Machines](https://www.darpa.mil/program/lifelong-learning-machines)
 
 ### Datasets
 
