@@ -7,9 +7,10 @@
 #### 참고자료
 
 - Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs ([arxiv](https://arxiv.org/abs/2405.17013))
-- 
+- AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents ([homepage](https://anyskill.github.io))
+- Learning from Human Instructions ([youtube](https://www.youtube.com/watch?v=p89PKaKirMs))
 
-A curated list of interesting research works.
+## 기타 주제
 
 ### Commonsense Reasoning
 * [SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference](http://rowanzellers.com/swag/) [arxiv](https://arxiv.org/abs/1808.05326)
