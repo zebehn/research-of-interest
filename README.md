@@ -6,7 +6,7 @@
 
 #### 참고자료
 
-- Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs ([arxiv](https://arxiv.org/abs/2405.17013))
+- Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs ([arxiv](https://arxiv.org/abs/2405.17013), [pdf](https://openreview.net/pdf?id=AvOhBgsE5R))
 - AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents ([homepage](https://anyskill.github.io))
 - Learning from Human Instructions ([youtube](https://www.youtube.com/watch?v=p89PKaKirMs), [pdf](http://ai2-website.s3.amazonaws.com/publications/LearnByInst.pdf))
 
