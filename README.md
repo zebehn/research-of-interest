@@ -1,5 +1,13 @@
 # Research Of Interest
 
+## 연구 주제
+
+### 대화 기반 교류를 통해 작업, 제스처, 모션을 가르치는 방법
+
+#### 참고자료
+
+- Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs
+
 A curated list of interesting research works.
 
 ### Commonsense Reasoning
