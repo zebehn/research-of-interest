@@ -6,7 +6,8 @@
 
 #### 참고자료
 
-- Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs
+- Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs ([arxiv](https://arxiv.org/abs/2405.17013))
+- 
 
 A curated list of interesting research works.
 
